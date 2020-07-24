@@ -5,7 +5,8 @@
   footer{
     background-color: rgb(41, 37, 33);
     padding: 90px 0;
- 
+ margin-bottom: 0px;
+ margin-top: 600px;
   }
   
   .footer-container{
